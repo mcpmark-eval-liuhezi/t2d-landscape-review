@@ -109,7 +109,6 @@ Pulled 2026-10-22 from ClinicalTrials.gov (condition search "type 2 diabetes"). 
 - Philippines: 547
 - Puerto Rico: 708
 - Malaysia: 730
-- Slovakia (dup check): 1362
 - Jordan: 42
 - Kuwait: 42
 - Qatar: 24
